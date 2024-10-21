@@ -4,8 +4,7 @@
     box-sizing: border-box;
   }
 img{
-   width: 100vw; /* 100% of the viewport width */
-  height: 100vh; /* 100% of the viewport height */
-  object-fit: cover
+ max-width: 100%;
+  height: auto
 }
   
